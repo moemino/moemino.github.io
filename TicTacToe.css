@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    margin: 50px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  td {
+    width: 100px;
+    height: 100px;
+  }
+
+  table {
+    margin: 100px auto;
+
+  }
+
+  .vertical {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    /*background-color: aqua;*/
+  }
+
+  .horizontal {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    /*background-color: aqua;*/
+
+  }
+
+  #centre {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    /*background-color: white;*/
+}
