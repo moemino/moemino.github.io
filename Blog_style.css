@@ -1,0 +1,43 @@
+h3 {
+    font-family: 'Source Sans 3', sans-serif;
+    color: #3098dd;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h2 {
+    font-family: 'Source Sans 3', sans-serif;
+    color: #354b63;
+    font-weight: 600;
+   
+}
+
+p {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 300;
+    margin-right: 20px;
+}
+
+div {
+    border-top: 20px #bdc7cf solid;
+    border-left: 20px #bdc7cf solid;
+    border-right: 20px #bdc7cf solid;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+
+}
+
+.padding {
+    padding-left: 30px;
+}
+
+.first{
+    border-left: 5px #bdc7cf solid;
+    padding-left: 10px;
+}
+
+hr {
+    margin-right: 20px;
+}
